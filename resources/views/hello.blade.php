@@ -1,1 +1,1 @@
-<h1>Hello Worlds!!</h1>
+<h1>{{ $hello ?? 'Hello Worlds!!' }}</h1>

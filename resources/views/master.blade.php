@@ -18,7 +18,7 @@
           integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
     <!-- Styles -->
-    <link href="http://localhost/fashion/resources/sass/master_client.css" rel="stylesheet" type="text/css"/>
+    <link href="http://localhost/basic-laravel/resources/sass/master_client.css" rel="stylesheet" type="text/css"/>
 
     {{-- Icon taskbar --}}
     <link rel="shortcut icon" href="{{ asset('images/logo/logo.jpg') }}">

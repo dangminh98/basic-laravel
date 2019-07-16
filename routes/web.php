@@ -12,3 +12,7 @@
 */
 
 Route::get('/', 'HelloController@index');
+
+Route::get('home', 'HomeController@index')->name('home');
+
+Route::get('products', 'ProductsController@index')->name('products');
