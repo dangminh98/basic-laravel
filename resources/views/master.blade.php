@@ -32,7 +32,7 @@
             <div id="main-menu">
                 <ul>
                     <li><a href="{!! url('/') !!}">Home</a></li>
-                    <li><a href="#">About US</a></li>
+                    <li><a href="{{ url('products/input') }}">Input Test</a></li>
                     <li><a href="{{ url('products')  }}">Products</a></li>
                     <li><a href="{{ url('portfolio')  }}">Portfolio</a></li>
                     <li><a href="#">Contact</a></li>
