@@ -16,3 +16,8 @@ Route::get('/', 'HelloController@index');
 Route::get('home', 'HomeController@index')->name('home');
 
 Route::get('products', 'ProductsController@index')->name('products');
+
+Route::get('products/input', 'ProductsController@inputViews')->name('input');
+Route::post('products/input', 'ProductsController@postInput')->name('input.post');
+
+Route::get('students', 'StudentController@getStudent')->name('student.get');

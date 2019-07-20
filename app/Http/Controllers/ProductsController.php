@@ -40,8 +40,22 @@ class ProductsController extends Controller
                 'price' => 420000
             ],
         ];
-        
-        
+
+
         return view('Lab2.index', compact('products'));
+    }
+
+    public function inputViews()
+    {
+        return view('Lab3.index');
+    }
+
+    public function postInput(Request $request)
+    {
+        $input = $request->all();
+
+        $sum = $input['userName'] + $input['password'];
+
+        return redirect()->route('input')->with(['message' => $sum]);
     }
 }
