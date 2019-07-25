@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44ca1e2d-3c26-4a54-a6c0-c90a12f88faa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/dashboard/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/share/bottom-asset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/share/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/share/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/share/top-asset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/Test.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Lab3/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Lab3/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Lab3/student.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Lab3/student.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="44ca1e2d-3c26-4a54-a6c0-c90a12f88faa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +53,8 @@
       <file leaf-file-name="dashboard.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="170">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -405,12 +391,12 @@
       <workItem from="1563882541342" duration="3027000" />
       <workItem from="1563936221233" duration="95000" />
       <workItem from="1564038396798" duration="2543000" />
-      <workItem from="1564054718193" duration="654000" />
+      <workItem from="1564054718193" duration="1710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22413000" />
+    <option name="totallyTimeSpent" value="23469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="438" y="71" width="1384" height="869" extended-state="0" />
@@ -765,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard/dashboard.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
