@@ -1,6 +1,6 @@
 @extends('master')
 
-@section('tittle', 'Login')
+@section('title', 'Students')
 
 @section('content')
     {{-- main title  --}}
@@ -26,6 +26,7 @@
                 </div>
             @endforeach
         </div>
+        @include('components.Test')
     </div>
     {{-- end show products --}}
 

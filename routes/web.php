@@ -21,3 +21,7 @@ Route::get('products/input', 'ProductsController@inputViews')->name('input');
 Route::post('products/input', 'ProductsController@postInput')->name('input.post');
 
 Route::get('students', 'StudentController@getStudent')->name('student.get');
+
+Route::get('dashboard', function() {
+    return view('admin.dashboard.dashboard');
+});

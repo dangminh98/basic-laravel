@@ -9,6 +9,7 @@ class HomeController extends Controller
     public function index()
     {
         $hello = 'Hello World!!!';
+
         return view('hello', compact('hello'));
     }
 }
